@@ -1,4 +1,4 @@
-name: C/C++ CI
+name: Run Quick memory latency and TLB test program
 
 on:
   push:
