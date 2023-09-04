@@ -1,3 +1,6 @@
+[![TLB CI](https://github.com/chbinousamy/test-tlb/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/chbinousamy/test-tlb/actions/workflows/c-cpp.yml)
+
+
 Quick memory latency and TLB test program.
 
 NOTE! This is a quick hack, and the code itself has some hardcoded
